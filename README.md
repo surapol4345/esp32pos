@@ -9,9 +9,10 @@ Step by step introduction could be found in the Example folder as followings:-
         become an application such as stock,RFID point of sale system etc. Important!.
   
     -My first task flow. Introduction to the three main tasks filtering event framework.Explore library data structures 
-        and ram reservation API. Explore library abilities to 
+        and ram reservation.
     
-    -General example to manage stock,rfid through all esp32pos functions.
+    -General example to manage stock,rfid through all esp32pos functions. Explore esp32pos functions by using thermal printer
+        listing all functions API.
 
     -Real stock managing application.
     
