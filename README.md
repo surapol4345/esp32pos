@@ -4,12 +4,16 @@ Step by step introduction could be found in the Example folder as followings:-
 
     -Preference setting and dependance Arduino libraries.
     
-    -Blank framework introduction. All comment lines will guide/explain about the event filtering task framework in which the task will be assigned to service a specific workflow and different tasks can be stacked in order to become an application such as stock point of sale or RFID point of sale system etc. Important!.
+    -Blank framework introduction. All commenting lines will give guidance to the event filtering task framework 
+        in which it will be assigned to service a specific workflow. More tasks can be stacked in order to 
+        become an application such as stock,RFID point of sale system etc. Important!.
   
-    -My first task flow. 
+    -My first task flow. Introduction to the three main tasks filtering event framework.Explore library data structures 
+        and ram reservation API. Explore library abilities to 
     
-    -Explore library data structure and ram resource API.
+    -General example to manage stock,rfid through all esp32pos functions.
+
+    -Real stock managing application.
     
-    -Explore library.
+    -Real rfid managing application.
     
-    -
